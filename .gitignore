@@ -1,0 +1,6 @@
+# latexmk auxiliary files
+*.aux
+*.fls
+*.fdb_latexmk
+*.log
+*.synctex.gz
